@@ -2,7 +2,7 @@
 Automatically enters SSO credentials when bookmark is clicked
 
 ## Instructions:
-1. Open the main.js in github.
+1. Open the autoSSO.js in github.
 2. Copy all of the text
 3. Create a new bookmark
 4. Set name to whatever you'd like (e.g AutoSSO)
