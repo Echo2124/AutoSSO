@@ -5,7 +5,6 @@ console.log("[Auto SSO] Running!");
 		return cookie ? cookie[2] : null;
 	};
 	if (getCookie("_username") == null) {
-			alert("[Auto SSO] About: " + "/n" +"AutoSSO developed by Joshua S, 12Y");
 			alert("[Auto SSO] Disclaimer:" + "/n" + "This script only encodes your credentials, this means that only obfuscation occurs. NOT encryption. I am not responsible to any loss that may occur when this script is used");
 			console.log("[Auto SSO] Cookie non-existant! Initialising setup...");
 			var username = prompt("Please enter your username /n Username:");
