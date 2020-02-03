@@ -1,4 +1,4 @@
-# AutoSSO
+# AutoSSO [Alpha]
 Automatically enters SSO credentials when bookmark is clicked
 
 ## Purpose:
