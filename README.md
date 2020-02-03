@@ -1,6 +1,9 @@
 # AutoSSO [Alpha]
 Automatically enters SSO credentials when bookmark is clicked
 
+## Supported SSO:
+* Sophos XG Client-based Single Sign On
+
 ## Instructions:
 1. Open the autoSSO.min.js in github.
 2. Copy all of the text
