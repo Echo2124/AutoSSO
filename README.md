@@ -3,6 +3,7 @@ Automatically enters SSO credentials when bookmark is clicked
 
 ## Supported SSO:
 * Sophos XG Client-based Single Sign On
+* Microsoft Azure SSO
 
 ## Instructions:
 1. Open the autoSSO.min.js in github.
